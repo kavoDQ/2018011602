@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733665352107",
+    "firebase_url": "https://project-5949075082265816659.firebaseio.com",
+    "project_id": "project-5949075082265816659",
+    "storage_bucket": "project-5949075082265816659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733665352107:android:83e0acb52b209456",
+        "android_client_info": {
+          "package_name": "forfun.good.a2018011602"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733665352107-uqujhh1v12tiqd8a3l95t0d4ibo5b2hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "forfun.good.a2018011602",
+            "certificate_hash": "29830c894e0ef932f0fd672528fe77bb1fc88c0e"
+          }
+        },
+        {
+          "client_id": "733665352107-h5m9dgbv91smfprl4ufdn0id8phl8np4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBncMpnDtgL-FjTpCKvCazDjYych-AMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733665352107-h5m9dgbv91smfprl4ufdn0id8phl8np4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
